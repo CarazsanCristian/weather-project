@@ -1,0 +1,15 @@
+.displayWeather{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top:16px;
+}
+
+.displayWeather div{
+   border: 1px solid #000;
+   padding: 8px;
+}
+
+.displayWeatherWrapper{
+    margin-left: 80px;
+    width: 300px;
+}
